@@ -1,4 +1,4 @@
-# 🔬 Useful Research Papers
+# 📃 Useful Research Papers
 | # | Topic | Best For | Beginner Friendly? | My Understanding | Link to the paper |
 |---|-------|----------|---------------------|------|------|
 | 1 | **Attention Is All You Need** | LLMs | Yes |[Open](attention-is-all-you-need.md) | [Open](https://arxiv.org/pdf/1706.03762) |My Explanation 
